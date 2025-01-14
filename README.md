@@ -10,7 +10,7 @@ First Github Lab
    - 🔭 I’m interested in software development.
 
    ## Check Out My Page
-   Visit: [https://BryanGallego90.github.io/](https://BryanGallego90.github.io/)
+   Visit: [https://bryangallego90.github.io/](https://bryangallego90.github.io/)
 
 
    ![Alt Text](https://i.etsystatic.com/13439930/r/il/f96e66/3826105261/il_1588xN.3826105261_toll.jpg)
