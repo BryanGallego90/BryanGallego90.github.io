@@ -7,7 +7,7 @@ First Github Lab
 
    ## About Me
    - 🌱 I’m learning GitHub and Markdown.
-   - 🔭 I’m interested in software development.
+   - 🔭 I’m interested in Cyber Security
 
    ## Check Out My Page
    Visit: [https://bryangallego90.github.io/](https://bryangallego90.github.io/)
