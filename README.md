@@ -24,7 +24,8 @@ This is my first GitHub Pages website.
 
 ### Check Out My Page
 Visit: [Bryan's GitHub Page](https://bryangallego90.github.io/)
-
+## Number Guessing Game Flowchart
+View the flowchart: [Guessing Game Flowchart](guessing.md)
 ---
 
 ### Inspiration from Rick & Morty
