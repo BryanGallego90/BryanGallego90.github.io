@@ -15,3 +15,11 @@ graph TD
     F --> C
     G --> C
     H --> I[End]
+```
+## Flow Chart Explanation
+    1. Generate and store a random number
+    2. Ask user to input their guess
+    3. Determine if input value is correct
+    4. Provide results if number is too low, too high or correct.
+    5. If guess is too low or high, request new user input for new guess.
+    6. If guess is correct the game ends and lets user know guess was correct
