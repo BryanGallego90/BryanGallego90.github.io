@@ -7,7 +7,7 @@ Hi! My name is Bryan Gallego.
 
 This is my first GitHub Pages website.
 
-``` markdown Adding "about me" section using Markdown```
+<!-- Added an about me sectio using Mark down headings-->
 
    # About Me
    -  I am a contractor and started my company at the end of 2018. 
@@ -34,7 +34,7 @@ Visit: [Bryan's GitHub Page](https://bryangallego90.github.io/)
 
 # Number Guessing Game Mermaid Flow Chart
 
-``` markdown Adding a flow chart in Mermaid syntax for a number guessing game```
+<!-- Added Mermaid syntax for a number guessing game using flowchart -->
 
 ```mermaid
 graph TD
