@@ -7,7 +7,8 @@ Hi! My name is Bryan Gallego.
 
 This is my first GitHub Pages website.
 
-``` Adding "about me" section using Markdown```
+``` markdown Adding "about me" section using Markdown```
+
    # About Me
    -  I am a contractor and started my company at the end of 2018. 
    -  I’m interested in Cyber Security.
@@ -30,3 +31,21 @@ Visit: [Bryan's GitHub Page](https://bryangallego90.github.io/)
 ![Alt Text: Cyber Security Design](https://i.etsystatic.com/13439930/r/il/f96e66/3826105261/il_1588xN.3826105261_toll.jpg)
 
 ---
+
+# Number Guessing Game Mermaid Flow Chart
+
+``` markdown Adding a flow chart in Mermaid syntax for a number guessing game```
+
+```mermaid
+graph TD
+    A[Start] --> B[Generate random number]
+    B --> C[Prompt user for input]
+    C --> D{Is input valid?}
+    D -- No --> C
+    D -- Yes --> E{Is input correct?}
+    E -- Too High --> F[Display Too high]
+    E -- Too Low --> G[Display Too low]
+    E -- Correct --> H[Display You guessed it!]
+    F --> C
+    G --> C
+    H --> I[End]
