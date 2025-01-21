@@ -18,7 +18,7 @@ This is my first GitHub Pages website.
    - I plan my traveling around the food I'm going to try when I get there.
 
 ## Website I Recommend
-   Visit:[Over the Wire] (https://overthewire.org/wargames/) 
+   Visit:[Over the Wire](https://overthewire.org/wargames/) 
    A website that teaches security concepts as an interactive game.
 
 ---
