@@ -9,15 +9,15 @@ This is my first GitHub Pages website.
 
 <!-- Added an about me sectio using Mark down headings-->
 
-   # About Me
+# About Me
    -  I am a contractor and started my company at the end of 2018. 
    -  I’m interested in Cyber Security.
 
-   ## Interests
+## Interests
    - I enjoy gaming
    - I plan my traveling around the food I'm going to try when I get there.
 
-   ## Website I Recommend
+ ## Website I Recommend
    Visit: [Over the Wire] (https://overthewire.org/wargames/) A website that teaches security concepts as an interactive game.
 
 ---
