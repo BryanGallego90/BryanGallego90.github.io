@@ -1,16 +1,32 @@
 # BryanGallego90.github.io
-First Github Lab
+## First GitHub Lab
 
-   # Welcome to My GitHub Page
-   Hi! My name is Bryan Gallego.  Email: Bgallego@my.waketech.edu
-   This is my first GitHub Pages website.
+### Welcome to My GitHub Page
+Hi! My name is Bryan Gallego.  
+**Email:** [Bgallego@my.waketech.edu](mailto:Bgallego@my.waketech.edu)  
 
-   ## About Me
-   - 🌱 I’m learning GitHub and Markdown.
-   - 🔭 I’m interested in Cyber Security
+This is my first GitHub Pages website.
 
-   ## Check Out My Page
-   Visit: [https://bryangallego90.github.io/](https://bryangallego90.github.io/)
+``` Adding "about me" section using Markdown```
+   # About Me
+   -  I am a contractor and started my company at the end of 2018. 
+   -  I’m interested in Cyber Security.
 
+   ## Interests
+   - I enjoy gaming
+   - I plan my traveling around the food I'm going to try when I get there.
 
-   ![Alt Text](https://i.etsystatic.com/13439930/r/il/f96e66/3826105261/il_1588xN.3826105261_toll.jpg)
+   ## Website I Recommend
+   Visit: [Over the Wire] (https://overthewire.org/wargames/) A website that teaches security concepts as an interactive game.
+
+---
+
+### Check Out My Page
+Visit: [Bryan's GitHub Page](https://bryangallego90.github.io/)
+
+---
+
+### Inspiration from Rick & Morty
+![Alt Text: Cyber Security Design](https://i.etsystatic.com/13439930/r/il/f96e66/3826105261/il_1588xN.3826105261_toll.jpg)
+
+---
