@@ -16,6 +16,8 @@ graph TD
     G --> C
     H --> I[End]
 ```
+---
+
 ## Flow Chart Explanation
     1. Generate and store a random number
     2. Ask user to input their guess
